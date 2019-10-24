@@ -24,6 +24,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-    
-    Math.sqrt
+    heaven == num * num
+    return Math.sqrt
 end
